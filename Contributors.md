@@ -957,4 +957,15 @@
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
 </tr>
+<tr>
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/louzt">
+    <img src="https://github.com/louzt.png" width="100px" />
+    <br />
+    <sub>David Mireles</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
+</tr>
 </table>
