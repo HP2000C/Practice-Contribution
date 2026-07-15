@@ -957,4 +957,17 @@
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
 </tr>
+
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/walonCode">
+    <img
+      src="https://avatars.githubusercontent.com/u/193446375?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mohamed Lamin Walon-Jalloh</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </table>
