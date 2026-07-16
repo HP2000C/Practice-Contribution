@@ -957,4 +957,16 @@
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
 </tr>
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/favmaclegend-ops">
+    <img
+      src="https://avatars.githubusercontent.com/favmaclegend-ops"
+      width="100px"
+    />
+    <br />
+    <sub>Favour Macauley</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
 </table>
