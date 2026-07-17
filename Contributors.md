@@ -4,7 +4,6 @@
 
 <table>
 <tr>
-
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/abdullah4tech">
@@ -971,6 +970,13 @@
 <!-- End of column-79 -->
 <!-- Start of column-80 -->
 <td align="center">
+  <a href="https://github.com/Procodx">
+    <img
+      src="https://avatars.githubusercontent.com/u/111022091?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Olamide Akinrinlola (Codex)</sub>
   <a href="https://github.com/ISONIC0788">
     <img
       src="https://avatars.githubusercontent.com/u/134501684?v=4"
