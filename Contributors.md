@@ -969,5 +969,17 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/ISONIC0788">
+    <img
+      src="https://avatars.githubusercontent.com/u/134501684?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>ITUZE Agacyo Ebed Meleck</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </tr>
 </table>
