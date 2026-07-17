@@ -6,6 +6,19 @@
 <tr>
 <!-- Start of column-1 -->
 <td align="center">
+  <a href="https://github.com/abdullah4tech">
+    <img
+      src="https://avatars.githubusercontent.com/u/118620815?s=400&u=2f6e84dc68829b18f899454624abf12833746289&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Abdullah Mustapha</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+
+<!-- Start of column-1 -->
+<td align="center">
   <a href="https://github.com/evavic44">
     <img src="https://avatars.githubusercontent.com/u/62628408?v=4" width="100px"> <br/>
     <sub>Victor Eke</sub>
@@ -964,8 +977,39 @@
     />
     <br />
     <sub>Olamide Akinrinlola (Codex)</sub>
+  <a href="https://github.com/ISONIC0788">
+    <img
+      src="https://avatars.githubusercontent.com/u/134501684?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>ITUZE Agacyo Ebed Meleck</sub>
   </a>
 </td>
 <!-- End of column-80 -->
 </tr>
+<tr>
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/louzt">
+    <img src="https://github.com/louzt.png" width="100px" />
+    <br />
+    <sub>David Mireles</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
+</tr>
+
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/walonCode">
+    <img
+      src="https://avatars.githubusercontent.com/u/193446375?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mohamed Lamin Walon-Jalloh</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </table>
