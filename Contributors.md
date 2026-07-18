@@ -1012,15 +1012,15 @@
   </a>
 </td>
 <!-- End of column-80 -->
- <!-- Start of column-81 -->
+<!-- Start of column-81 -->
 <td align="center">
-  <a href="https://github.com/favmaclegend-ops">
+  <a href="https://github.com/EmmazonTech">
     <img
-      src="https://avatars.githubusercontent.com/favmaclegend-ops"
+      src="https://avatars.githubusercontent.com/u/126606576?s=400&u=197e39a248d881fb7fd0ac5c99f24d5099031474&v=4"
       width="100px"
     />
     <br />
-    <sub>Favour Macauley</sub>
+    <sub>Mazon Inc</sub>
   </a>
 </td>
 <!-- End of column-81 -->
