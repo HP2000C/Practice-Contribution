@@ -1012,4 +1012,16 @@
   </a>
 </td>
 <!-- End of column-80 -->
+ <!-- Start of column-81 -->
+<td align="center">
+  <a href="https://github.com/favmaclegend-ops">
+    <img
+      src="https://avatars.githubusercontent.com/favmaclegend-ops"
+      width="100px"
+    />
+    <br />
+    <sub>Favour Macauley</sub>
+  </a>
+</td>
+<!-- End of column-81 -->
 </table>
