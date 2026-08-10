@@ -1024,4 +1024,17 @@
   </a>
 </td>
 <!-- End of column-81 -->
+
+<!-- Start of column-82 -->
+<td align="center">
+  <a href="https://github.com/EmmazonTech">
+    <img
+      src="https://avatars.githubusercontent.com/u/272124610?s=400&u=0edf96395c4f9c8a95c01bf234900a08215b377b&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Atheros</sub>
+  </a>
+</td>
+<!-- End of column-82 -->
 </table>
